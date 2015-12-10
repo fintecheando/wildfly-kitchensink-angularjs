@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Victor Romero
+Dependencies: org.hibernate.ogm services, org.hibernate.ogm.couchdb services, org.hibernate.search.orm services
