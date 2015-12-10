@@ -1,3 +1,8 @@
+Based on original but now works with CouchDB
+
+https://github.com/wildfly/quickstart
+
+
 kitchensink-angularjs: Shows how to use AngularJS with JAX-RS and Java EE on JBoss
 ========================
 Author: Pete Muir  
